@@ -1,0 +1,4 @@
+tikyars1.sydney.wdlabs.com:3001 /home/ollisg/var/yars/disk01
+tikyars2.sydney.wdlabs.com:3001 /home/ollisg/var/yars/disk02
+tikyars2.sydney.wdlabs.com:3001 /home/ollisg/var/yars/disk03
+tikyars3.sydney.wdlabs.com:3001 /home/ollisg/var/yars/disk04
